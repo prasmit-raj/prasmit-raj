@@ -53,5 +53,6 @@ Spring Boot + React + PostgreSQL
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
+- LinkedIn: https://www.linkedin.com/in/prasmit-raj01/
+- Leetcode: https://leetcode.com/u/prasmitraj234/
+- Email: prasmitraj056@email.com
