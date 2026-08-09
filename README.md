@@ -1,58 +1,118 @@
 # Hi 👋 I'm Prasmit Raj
 
-### Backend Developer | Java | Spring Boot | PostgreSQL | C++
+### Full Stack Developer | JavaScript | Node.js | React | AI | PostgreSQL | Python
 
-I'm a backend developer passionate about building scalable applications, solving algorithmic problems, and learning system design.
+I'm a full-stack developer focused on building scalable applications, solving algorithmic problems, and exploring backend systems and AI.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student
-- 💻 Backend Developer
-- 🌱 Currently learning Spring Boot & PostgreSQL
-- 🧠 Solved 300+ LeetCode problems
-- 📚 Love DSA and System Design
+* 🎓 B.Tech in Computer Science & Engineering
+* 💻 Full Stack Developer
+* 🌱 Currently learning **Node.js, PostgreSQL & AI**
+* 🧠 Solved **300+ LeetCode problems**
+* 📚 Interested in **DSA, System Design, Backend Engineering & AI**
+* 🛠️ Building full-stack, distributed systems, and AI projects
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-- Java
-- C++
-- Python
-- JavaScript
+
+* JavaScript
+* C++
+* Python
 
 ### Backend
-- Spring Boot
-- REST APIs
 
-### Database
-- PostgreSQL
-- MySQL
+* Node.js
+* Express.js
+* REST APIs
+* Authentication
+* Distributed Systems
 
-### Tools
-- Git
-- Docker
-- Linux
+### Frontend
+
+* React
+* Vite
+* Tailwind CSS
+* React Router
+
+### Databases
+
+* PostgreSQL
+* MySQL
+
+### AI
+
+* RAG (Retrieval-Augmented Generation)
+* LLM Applications
+* Vector Databases
+* AI-powered Search
+
+### Tools & Infrastructure
+
+* Git
+* Docker
+* Linux
 
 ---
 
 ## 📌 Featured Projects
 
-### 📈 Stock Portfolio Dashboard
-Spring Boot + React + PostgreSQL
+### 🛍️ CartForge — Full Stack E-Commerce
 
-- Portfolio Management
-- Live Stock Prices
-- REST APIs
-- Authentication
+**React · Node.js · PostgreSQL**
+
+A full-stack e-commerce platform for **clothing and accessories**.
+
+* Product browsing and management
+* Shopping cart
+* User authentication
+* Order management
+* REST APIs
+* PostgreSQL database
+* Responsive React frontend
 
 ---
 
-## 📫 Connect with Me
+### ⚙️ Distributed Job Queue
 
-- LinkedIn: https://www.linkedin.com/in/prasmit-raj01/
-- Leetcode: https://leetcode.com/u/prasmitraj234/
-- Email: prasmitraj056@email.com
+A distributed job processing system designed to reliably handle and execute background tasks.
+
+* Distributed job processing
+* Job queues
+* Worker-based architecture
+* Fault handling
+* Scalable task execution
+
+---
+
+### 🤖 AI RAG System
+
+An AI application built using **Retrieval-Augmented Generation (RAG)** to provide responses based on external knowledge sources.
+
+* Document ingestion
+* Text retrieval
+* Vector search
+* Context-aware AI responses
+* LLM integration
+
+---
+
+## 🧠 LeetCode
+
+* 300+ problems solved
+* Practicing Data Structures & Algorithms
+* Focused on problem-solving patterns and optimization
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [linkedin.com/in/prasmit-raj01](https://www.linkedin.com/in/prasmit-raj01/)
+* 🧠 LeetCode: [leetcode.com/u/prasmitraj234](https://leetcode.com/u/prasmitraj234/)
+* 📧 Email: [prasmitraj056@email.com](mailto:prasmitraj056@email.com)
+
