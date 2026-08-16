@@ -88,6 +88,7 @@ A distributed job processing system designed to reliably handle and execute back
 * Worker-based architecture
 * Fault handling
 * Scalable task execution
+* Live Demo: https://vercel.com/prasmit-rajs-projects/distributed-job-queue
 
 ---
 
