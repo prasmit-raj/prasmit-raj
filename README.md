@@ -101,6 +101,7 @@ An AI application built using **Retrieval-Augmented Generation (RAG)** to provid
 * Vector search
 * Context-aware AI responses
 * LLM integration
+* Live Demo: https://rag-ai-assistant-ten.vercel.app/
 
 ---
 
