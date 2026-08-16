@@ -75,6 +75,7 @@ A full-stack e-commerce platform for **clothing and accessories**.
 * REST APIs
 * PostgreSQL database
 * Responsive React frontend
+* Live Demo: https://cart-forge.vercel.app/
 
 ---
 
